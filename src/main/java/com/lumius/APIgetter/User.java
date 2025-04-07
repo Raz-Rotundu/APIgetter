@@ -7,7 +7,7 @@ package com.lumius.APIgetter;
 public record User(
 		int id,
 		String name,
-		String userName,
+		String username,
 		String email,
 		Address address,
 		String phone,
