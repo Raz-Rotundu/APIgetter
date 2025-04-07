@@ -16,7 +16,13 @@ In /target, there should now be 2 files:
 	<li>APIgetter.jar</li>
 	<li>APIgetter-jar-with-dependencies.jar</li>
 </ul>
-Run the following command: **java -jar APIgetter-jar-with-dependencies.jar** to execute the program
+Run the following command to execute the program: 
+
+
+**java -jar APIgetter-jar-with-dependencies.jar** 
+
+
+
 
 
 ## Features
