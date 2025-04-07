@@ -3,7 +3,7 @@ A simple program that sends a GET request to https://jsonplaceholder.typicode.co
 
 ## Dependencies
 **Java**: JRE 14+ and/or JDK 14+ if developing
-**Maven**: Maven 3.6+
+<p>**Maven**: Maven 3.6+</p>
 
 ## Installation
 

@@ -41,8 +41,8 @@
             <artifactId>maven-compiler-plugin</artifactId>
             <version>3.8.1</version> <!-- Ensure this version is up-to-date -->
             <configuration>
-                <source>24</source> <!-- or higher, such as 15, 16, etc. -->
-                <target>24</target> <!-- or higher, such as 15, 16, etc. -->
+                <source>16</source> <!-- or higher, such as 15, 16, etc. -->
+                <target>16</target> <!-- or higher, such as 15, 16, etc. -->
             </configuration>
         </plugin>
     <!-- For compiling to big jars-->
