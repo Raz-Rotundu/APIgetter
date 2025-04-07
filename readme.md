@@ -1,9 +1,10 @@
 # API get request program
 A simple program that sends a GET request to https://jsonplaceholder.typicode.com/users, parses the resulting JSON into User objects, stores them in list, then prints them out.
 
-## Dependencies
-**Java**: JRE 16+ and/or JDK 16+ if developing
-<p>**Maven**: Maven 3.6+</p>
+## Dependencies 
+**Java**: JRE 16+ and/or JDK 16+ if developing.  
+**Maven**: Maven 3.6+.
+
 
 ## Installation
 In the project Directory, run the following command
